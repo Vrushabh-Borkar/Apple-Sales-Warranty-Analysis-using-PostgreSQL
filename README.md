@@ -47,16 +47,6 @@ In addition to business analytics, the project demonstrates SQL optimization tec
 
 The project is built on a relational database consisting of five interconnected tables.
 
-| Table | Description |
-|--------|-------------|
-| Category | Stores product categories |
-| Products | Stores Apple product information |
-| Stores | Contains store details |
-| Sales | Records product sales transactions |
-| Warranty | Stores warranty claim information |
-
----
-
 ## Entity Relationship Diagram
 
 ```md
