@@ -103,9 +103,9 @@ To improve query execution time, indexes were created on high-frequency search c
 
 ### Indexes Created
 
-- Product ID
-- Store ID
-- Sale Date
+- Product ID  ```sql CREATE INDEX sales_product_id ON sales(product_id) ;```
+- Store ID ```sql CREATE INDEX sales_store_id ON sales(store_id); ```
+- Sale Date ```sql CREATE INDEX sales_sale_date ON sales(sale_date); ```
 
 Performance was evaluated using **EXPLAIN ANALYZE** before and after indexing to compare execution time improvements.
 
