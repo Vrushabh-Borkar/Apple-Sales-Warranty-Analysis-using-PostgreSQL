@@ -81,30 +81,6 @@ Apple-Sales-Data-Analysis
 
 ---
 
-# 🏗️ Database Design
-
-## Category
-
-Maintains product category information used to classify Apple products.
-
-## Products
-
-Contains product details including launch date, category, and selling price.
-
-## Stores
-
-Stores geographical information about Apple retail stores across multiple countries.
-
-## Sales
-
-Maintains transactional sales records including store, product, sale date, and quantity sold.
-
-## Warranty
-
-Contains warranty claim records linked to individual sales transactions along with repair status.
-
----
-
 # 📊 Exploratory Data Analysis (EDA)
 
 Before solving business problems, exploratory analysis was performed to understand the dataset.
