@@ -49,9 +49,10 @@ The project is built on a relational database consisting of five interconnected 
 
 ## Entity Relationship Diagram
 
-```md
-![https://github.com/Vrushabh-Borkar/Apple-Sales-Warranty-Analysis-using-PostgreSQL/blob/main/ERD%20picture.png]
-```
+
+![ERD](https://github.com/Vrushabh-Borkar/Apple-Sales-Warranty-Analysis-using-PostgreSQL/blob/main/ERD%20picture.png)
+
+
 
 ---
 
